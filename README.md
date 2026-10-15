@@ -1,11 +1,10 @@
-# individual-pract# Team Workflow Lab
+# Team Workflow Lab
+
 Purpose: Master collaborative software development by building real projects with Git.
 
 Team members: Muhammad Waleed
 
 Tasks: Repository setup, feature implementation, review, and testing.
-
-
 
 ## Learning Objectives
 
