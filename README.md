@@ -1,6 +1,6 @@
 # individual-pract# Team Workflow Lab
 
-Purpose: Master collaborative software development with Git.
+Purpose: Practice Git and collaborative software development.
 
 Team members: Muhammad Waleed
 
